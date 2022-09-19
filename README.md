@@ -1,5 +1,5 @@
 # The C Book - source code examples
-All source code examples from The C Book, properly formatted (Linux kernel style).
+All source code examples from The C Book, properly formatted (Linux kernel style). The book describes the ANSI C standard (C89 / C90).
 
 ## About The C Book
 The C Book was written by Mike Banahan, Declan Brady and Mark Doran. This version is based on the second edition. The whole book can be found on GitHub [here](https://github.com/wardvanwanrooij/thecbook). The latest PDF version of The C Book can be downloaded from [https://github.com/wardvanwanrooij/thecbook/releases/latest](https://github.com/wardvanwanrooij/thecbook/releases/latest).
