@@ -4,7 +4,8 @@ int i;				/* definition */
 main()
 {
 	void f_in_other_place(void);	/* declaration */
-i = 0}
+	i = 0;
+}
 
 /* end of first file */
 
