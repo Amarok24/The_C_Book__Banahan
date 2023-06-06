@@ -13,5 +13,6 @@ main()
 	exit(EXIT_SUCCESS);
 }
 
-/* Result */
+/* Result
  fgetc:Bad file number
+*/
